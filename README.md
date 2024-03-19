@@ -65,7 +65,7 @@ Evaluating sentiment trends across different days of the week, the analysis unco
 
 # 3. Report
 
-Our findings, drawn from comprehensive data analysis, are consolidated in a detailed report, accessible [here](https://github.com/Thomas-George-T/Social-Media-Analytics-in-R/blob/main/Social-Media-Analytics.pdf).
+Our findings, drawn from comprehensive data analysis, are consolidated in a detailed report, accessible [here]([https://github.com/Thomas-George-T/Social-Media-Analytics-in-R/blob/main/Social-Media-Analytics.pdf](https://github.com/BhaveshxPurohit/Analyzing-Social-Media-Sentiment/blob/main/Analyzing-Social-Media-Sentiment.pdf).
 
 # 4. Summary
 
